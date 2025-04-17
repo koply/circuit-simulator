@@ -1,4 +1,4 @@
-    class CircuitNodeLink {
-	int num;
-	CircuitElm elm;
-    }
+class CircuitNodeLink {
+    int num;
+    CircuitElm elm;
+}
